@@ -177,5 +177,9 @@ ENV/
 # Spyder project settings
 .spyderproject
 
+# Intellij
+.idea/
+*.iml
+
 # Rope project settings
 .ropeproject
