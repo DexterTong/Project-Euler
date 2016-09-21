@@ -180,6 +180,7 @@ ENV/
 # Intellij
 .idea/
 *.iml
+out/
 
 # Rope project settings
 .ropeproject

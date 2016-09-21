@@ -8,6 +8,10 @@ Input:
 Same format as the ProjectEuler+ HackerRank challenge; each argument is separated by a newline, in which the first is 
 the number of tests to run, denoted t, and the subsequent lines are the individual tests, (n1,...,nt). In this case, for each test i,
  find the sum of the multiples of 3 and 5 that are less than the test value ni.
+ 
+Alternatively, run
+$ java Main <n>
+Where n is the number for which we want the sum of the multiples of 3 and 5 less than n
 
 $ java Main
 $ t
