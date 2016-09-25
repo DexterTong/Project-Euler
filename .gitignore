@@ -20,6 +20,8 @@ hs_err_pid*
 *.obj
 *.elf
 
+CMakeLists.txt
+
 # Precompiled Headers
 *.gch
 *.pch
