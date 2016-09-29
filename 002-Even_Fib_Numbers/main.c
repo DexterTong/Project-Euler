@@ -34,5 +34,6 @@ int main() {
         printf("%ld\n", sum);
     }
     free(cases);
+    free(fibNums);
     return 0;
 }
